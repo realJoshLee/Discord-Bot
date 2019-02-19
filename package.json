@@ -1,0 +1,8 @@
+{
+“name”: “Tech Bot”,
+“version”: “1.0.0”,
+“description”: “All in one tech bot!”,
+“main”: “bot.js”,
+“author”: “Josh”,
+“dependencies”: {}
+}
